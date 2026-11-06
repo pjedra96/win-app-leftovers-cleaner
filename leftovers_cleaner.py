@@ -15,6 +15,8 @@ deleted while VS Code is closed. Crash dumps in %APPDATA%\\Code\\Crashpad\\repor
 are listed unticked, since keeping them is the user's call.
 
 npm and pip: their download caches, cleared with the tools' own commands.
+
+By @pjedra96 2026
 """
 
 import json
